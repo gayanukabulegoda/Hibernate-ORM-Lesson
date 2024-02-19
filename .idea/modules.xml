@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CrudImplementionUsingHibernate/CrudImplementionUsingHibernate.iml" filepath="$PROJECT_DIR$/CrudImplementionUsingHibernate/CrudImplementionUsingHibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SessionFactoryRebuildStopped/SessionFactoryRebuildStopped.iml" filepath="$PROJECT_DIR$/SessionFactoryRebuildStopped/SessionFactoryRebuildStopped.iml" />
       <module fileurl="file://$PROJECT_DIR$/orm_Day03.iml" filepath="$PROJECT_DIR$/orm_Day03.iml" />
     </modules>
   </component>
