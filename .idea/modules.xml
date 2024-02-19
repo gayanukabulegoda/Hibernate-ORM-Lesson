@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/get()VsLoad()/get()VsLoad().iml" filepath="$PROJECT_DIR$/get()VsLoad()/get()VsLoad().iml" />
       <module fileurl="file://$PROJECT_DIR$/hibernateConfigurationObject/hibernateConfigurationObject.iml" filepath="$PROJECT_DIR$/hibernateConfigurationObject/hibernateConfigurationObject.iml" />
       <module fileurl="file://$PROJECT_DIR$/hibernateSchemaGeneration/hibernateSchemaGeneration.iml" filepath="$PROJECT_DIR$/hibernateSchemaGeneration/hibernateSchemaGeneration.iml" />
       <module fileurl="file://$PROJECT_DIR$/orm_Day04.iml" filepath="$PROJECT_DIR$/orm_Day04.iml" />
