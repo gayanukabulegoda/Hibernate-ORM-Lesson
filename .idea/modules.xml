@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Hibernate_ORM_nativeBootStrapping(Property File Mapping)/Hibernate_ORM_nativeBootStrapping(Property File Mapping).iml" filepath="$PROJECT_DIR$/Hibernate_ORM_nativeBootStrapping(Property File Mapping)/Hibernate_ORM_nativeBootStrapping(Property File Mapping).iml" />
-      <module fileurl="file://$PROJECT_DIR$/Hibernate_ORM_nativeBootStrapping(XML Mapping)/Hibernate_ORM_nativeBootStrapping(XML Mapping).iml" filepath="$PROJECT_DIR$/Hibernate_ORM_nativeBootStrapping(XML Mapping)/Hibernate_ORM_nativeBootStrapping(XML Mapping).iml" />
-      <module fileurl="file://$PROJECT_DIR$/orm_Day02.iml" filepath="$PROJECT_DIR$/orm_Day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Annotations/Annotations.iml" filepath="$PROJECT_DIR$/Annotations/Annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CrudImplementionUsingHibernate/CrudImplementionUsingHibernate.iml" filepath="$PROJECT_DIR$/CrudImplementionUsingHibernate/CrudImplementionUsingHibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SessionFactoryRebuildStopped/SessionFactoryRebuildStopped.iml" filepath="$PROJECT_DIR$/SessionFactoryRebuildStopped/SessionFactoryRebuildStopped.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Update-Create-CreateDrop-Validate/Update-Create-CreateDrop-Validate.iml" filepath="$PROJECT_DIR$/Update-Create-CreateDrop-Validate/Update-Create-CreateDrop-Validate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orm_Day03.iml" filepath="$PROJECT_DIR$/orm_Day03.iml" />
     </modules>
   </component>
 </project>
