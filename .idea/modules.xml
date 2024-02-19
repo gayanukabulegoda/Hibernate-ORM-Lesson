@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Annotations/Annotations.iml" filepath="$PROJECT_DIR$/Annotations/Annotations.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CrudImplementionUsingHibernate/CrudImplementionUsingHibernate.iml" filepath="$PROJECT_DIR$/CrudImplementionUsingHibernate/CrudImplementionUsingHibernate.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SessionFactoryRebuildStopped/SessionFactoryRebuildStopped.iml" filepath="$PROJECT_DIR$/SessionFactoryRebuildStopped/SessionFactoryRebuildStopped.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Update-Create-CreateDrop-Validate/Update-Create-CreateDrop-Validate.iml" filepath="$PROJECT_DIR$/Update-Create-CreateDrop-Validate/Update-Create-CreateDrop-Validate.iml" />
-      <module fileurl="file://$PROJECT_DIR$/orm_Day03.iml" filepath="$PROJECT_DIR$/orm_Day03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernateConfigurationObject/hibernateConfigurationObject.iml" filepath="$PROJECT_DIR$/hibernateConfigurationObject/hibernateConfigurationObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orm_Day04.iml" filepath="$PROJECT_DIR$/orm_Day04.iml" />
     </modules>
   </component>
 </project>
