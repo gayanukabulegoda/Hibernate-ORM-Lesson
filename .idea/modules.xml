@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/get()VsLoad()/get()VsLoad().iml" filepath="$PROJECT_DIR$/get()VsLoad()/get()VsLoad().iml" />
-      <module fileurl="file://$PROJECT_DIR$/hibernateConfigurationObject/hibernateConfigurationObject.iml" filepath="$PROJECT_DIR$/hibernateConfigurationObject/hibernateConfigurationObject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hibernateQueryObject/hibernateQueryObject.iml" filepath="$PROJECT_DIR$/hibernateQueryObject/hibernateQueryObject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hibernateSchemaGeneration/hibernateSchemaGeneration.iml" filepath="$PROJECT_DIR$/hibernateSchemaGeneration/hibernateSchemaGeneration.iml" />
-      <module fileurl="file://$PROJECT_DIR$/orm_Day04.iml" filepath="$PROJECT_DIR$/orm_Day04.iml" />
-      <module fileurl="file://$PROJECT_DIR$/repositoryLayerImplementation/repositoryLayerImplementation.iml" filepath="$PROJECT_DIR$/repositoryLayerImplementation/repositoryLayerImplementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpqlAndHqlViaQueryObject/jpqlAndHqlViaQueryObject.iml" filepath="$PROJECT_DIR$/jpqlAndHqlViaQueryObject/jpqlAndHqlViaQueryObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orm_Day05.iml" filepath="$PROJECT_DIR$/orm_Day05.iml" />
     </modules>
   </component>
 </project>
