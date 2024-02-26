@@ -113,7 +113,7 @@ public class CustomerRepository {
         return list;
     }
 
-    //Join Query Using HQL
+    //Query Using HQL
     public List<Customer> getCustomerHQL() {
         String sql = "FROM Customer";
         Query query = session.createQuery(sql);

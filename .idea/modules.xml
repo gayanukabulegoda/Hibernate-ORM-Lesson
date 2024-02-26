@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/dataProjection/dataProjection.iml" filepath="$PROJECT_DIR$/dataProjection/dataProjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernateLifeCycle/hibernateLifeCycle.iml" filepath="$PROJECT_DIR$/hibernateLifeCycle/hibernateLifeCycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/jpqlAndHqlViaQueryObject/jpqlAndHqlViaQueryObject.iml" filepath="$PROJECT_DIR$/jpqlAndHqlViaQueryObject/jpqlAndHqlViaQueryObject.iml" />
       <module fileurl="file://$PROJECT_DIR$/orm_Day05.iml" filepath="$PROJECT_DIR$/orm_Day05.iml" />
     </modules>

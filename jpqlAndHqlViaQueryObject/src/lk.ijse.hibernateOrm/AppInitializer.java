@@ -36,11 +36,15 @@ public class AppInitializer {
             System.out.println(customer);
         }*/
 
+        System.out.println("\n======JPQL Join Query======\n");
+
         CustomerRepository customerRepository = new CustomerRepository();
         List<Order> ordersList = customerRepository.getOrdersByCustomerID(1);
         for (Order order : ordersList) {
             System.out.println(order);
         }
+
+        System.out.println("\n======HQL Query======\n");
 
         customerRepository = new CustomerRepository();
         List<Customer> customerList = customerRepository.getCustomerHQL();

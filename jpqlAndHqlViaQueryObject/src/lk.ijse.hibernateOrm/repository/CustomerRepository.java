@@ -98,7 +98,7 @@ public class CustomerRepository {
         return list;
     }
 
-    //Join Query Using JPQL
+    //Query Using JPQL
     public List<Order> getOrdersByCustomerID(int cusId) {
         String sql = "SELECT O FROM orders AS O\n" +
                 "INNER JOIN Customer AS C ON O.customer.id = C.id\n" +
@@ -112,7 +112,7 @@ public class CustomerRepository {
         return list;
     }
 
-    //Join Query Using HQL
+    //Query Using HQL
     public List<Customer> getCustomerHQL() {
         String sql = "FROM Customer";
         Query query = session.createQuery(sql);
