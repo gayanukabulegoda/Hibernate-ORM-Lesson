@@ -6,6 +6,10 @@
   Embark on a journey of learning and mastery within the realm of Hibernate ORM.
 </p>
 
+## Note
+
+For additional reference, you can access the Hibernate ORM Handwritten note [here](https://drive.google.com/file/d/1S-aO8EgzY5JS6avOdYp11eSFxRCalP7p/view?usp=sharing).
+
 ## Table of Contents
 
 - [Lessons](#Lessons)
